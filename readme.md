@@ -1,4 +1,4 @@
-## Evento NLW COPA - Trilha Ignite | by @Rocketseat
+## Evento NLW COPA - Trilha Ignite | by [Rocketseat](https://github.com/Rocketseat)
 
 desenvolvido por [Armando Neto](https://github.com/ArNeto19)
 
