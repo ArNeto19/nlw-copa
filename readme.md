@@ -15,3 +15,8 @@ desenvolvido por [Armando Neto](https://github.com/ArNeto19)
 - Prisma ORM (Sqlite)
 
 ##### Obs.: Versão inicial com esboço geral do projeto. Próximas versões estão sendo planejadas para reaproveitar estrutura da aplicação para outros eventos esportivos.
+
+
+
+https://user-images.githubusercontent.com/105897931/208284714-726eba46-294b-46dd-9e83-77049cc2795b.mp4
+
